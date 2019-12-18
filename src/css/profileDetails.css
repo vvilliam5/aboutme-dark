@@ -1,0 +1,31 @@
+.profile-top{
+    padding-top: 10% !important;
+
+}
+
+.summary{
+    background: steelblue !important;
+    color: white !important;
+}
+
+.header{
+    font-family: 'Comfortaa', cursive !important;
+}
+
+.paragraph{
+    font-family: 'Raleway', sans-serif;
+    font-size: large;
+    color: skyblue;
+}
+
+.ws-bg{
+    background-image: url(../img/bg/c.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box-dark{
+    background-color: #2e2b2b !important;
+}

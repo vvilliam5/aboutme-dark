@@ -29,53 +29,54 @@ class CareerDetails extends React.Component {
                                 <h1 className="header">Full Stack Developer,  UI /UX Designer</h1>
                                 <p className="paragraph" style={{ fontStyle: 'italic' }}>Mojec International, Apapa-Oshodi Expressway, Lagos State<i class="calendar alternate icon career-icon" ></i><span className="career-span">Feb - Sept '19</span></p>
                                 <div class="ui bulleted list paragraph">
-                                    <div class="item">Design products for mobile & web platforms</div>
-                                    <div class="item">Convert business requirements into pixel perfect designs</div>
+                                    <div class="item">Developed and maintained resful APIs using AJAX with average response time of 550ms</div>
+                                    <div class="item">Maintained and optimized an extensive code base and versioned controlled using git and github</div>
+                                    <div class="item">Developed an automated Customer Complaint System using adonisjs and reactjs reducing agitated customers law suits by over 90%</div>
+                                    <div class="item">Converted business requirements into pixel perfect designs using Invision, Adobe Illustrator and XD</div>
                                     <div class="item">Design the UI/UX prototypes for web and mobile applications.</div>
-                                    <div class="item">Design graphics requirements eg banners, posters etc</div>
-                                    <div class="item">Debug web applications</div>
-                                    <div class="item">Develop web application fromscratch</div>
+                                    <div class="item">Debug and optimize code base using  breakpoints in google dev tools</div>
+                                    <div class="item">Wrote numerous test suites using mocha to automate the testing of various meter unit number cross referencing with the pairing number</div>
                                 </div>
                             </div>
                             <div className="content-sm">
                                 <h1 className="header">IT Consultant (NYSC)</h1>
                                 <p className="paragraph" style={{ fontStyle: 'italic' }}>OHOS, Anambra State Secretariat, Awka, Anambra State<i class="calendar alternate icon career-icon" ></i><span className="career-span">Feb – Dec '18</span></p>
                                 <div class="ui bulleted list paragraph">
-                                    <div class="item">I worked with the Director, PSO of the Head of Service in providing a lasting management solution .</div>
-                                    <div class="item">I created a Civil Servant Management System using Bootstrap, Javascript, JQuery, vanilla PHP and MySQL</div>
-                                    <div class="item">I created an efficient Retrieval solution for their civil servant  nominal roles.</div>
-                                    <div class="item">I created a Property Management System as a side project using Bootstrap, Javascript, JQuery, vanilla PHP and MySQL.</div>
+                                    <div class="item">Wrote automated test scripts using mocha and chai to optimize records Retrieval system reducing the errors for Retrieval(er) to 0%</div>
+                                    <div class="item">Developed a Civil Servant Management System using Bootstrap, Javascript, JQuery, vanilla PHP and MySQL</div>
+                                    <div class="item">Developed an efficient Retrieval solution for their civil servant  nominal roles.</div>
+                                    <div class="item">Developed a Property Management System using Bootstrap, Javascript, JQuery, vanilla PHP and MySQL.</div>
                                 </div>
                             </div>
                             <div className="content-sm">
                                 <h1 className="header">Web Developer/Graphics Designer</h1>
                                 <p className="paragraph" style={{ fontStyle: 'italic' }}>Startboard Studio, Ajao Estate, Lagos State.<i class="calendar alternate icon career-icon" ></i><span className="career-span">Apr – Aug '17</span></p>
                                 <div class="ui bulleted list paragraph">
-                                    <div class="item">Lead a team of two to conceptualized the quickest but most effective SDLC</div>
-                                    <div class="item">Built fully functional websites which exceeded customers expectation. Using CMS and bootstrap</div>
-                                    <div class="item">Created  a customized CMSs for customers who required a more personal touch</div>
-                                    <div class="item">Created graphics for website Using adobe illustrator </div>
-                                    <div class="item">Ensure creativity in every project since it was one of the core values of the company</div>
+                                    <div class="item">Mentored a team of two, using Agile Methodologies and scrums to drive home the importance of customer satisfaction</div>
+                                    <div class="item">Built fully functional websites using bootstrap and laravel powering a robust CMS that gives the user full control over the UI of the website</div>
+                                    <div class="item">Developed a customized CMSs using adonisjs and nodejs to reduce load times and optimize for Search engine optimization</div>
+                                    <div class="item">Prompt delivery of mock ups and wireframes for website design using inVision </div>
+                                    <div class="item">Enforced Company values of delivering and exceeding customers expectations regarding every deliverables</div>
                                 </div>
                             </div>
                             <div className="content-sm">
                                 <h1 className="header">Front End Developer (Internship)</h1>
                                 <p className="paragraph" style={{ fontStyle: 'italic' }}>Exolve Technologies, Yaba, Lagos State.<i class="calendar alternate icon career-icon" ></i><span className="career-span">Sept – Dec '16</span></p>
                                 <div class="ui bulleted list paragraph">
-                                    <div class="item">Designed User Interfaces for website using Adobe Illustrstor</div>
-                                    <div class="item">Designed mock ups and wireframes for website</div>
-                                    <div class="item">Designed and develop fully functional website using CMS and bootstrap</div>
-                                    <div class="item">Designed graphics for projects. Using Adobe Illustrator</div>
-                                    <div class="item">Got a brief introduction to 2D Animation Creation</div>
+                                    <div class="item">Projected and Illustrated beautiful User Interfaces for website using Adobe Illustrstor</div>
+                                    <div class="item">Prompt delivery of mock ups and wireframes for website design using inVision</div>
+                                    <div class="item">Prototyped and develop fully functional website using bootstrap and CMS</div>
+                                    <div class="item">Designed pixel perfect print graphics for using Adobe Illustrator</div>
+                                    <div class="item">Designed and prototyped character models using Adobe Character Animator</div>
                                 </div>
                             </div>
                             <div className="content-sm">
                                 <h1 className="header">Programmer (Internship)</h1>
                                 <p className="paragraph" style={{ fontStyle: 'italic' }}>TNS RMS, Ojodu-Berger, Lagos State<i class="calendar alternate icon career-icon" ></i><span className="career-span">Apr – June '13</span></p>
                                 <div class="ui bulleted list paragraph">
-                                    <div class="item">I debugged codes for syntax and logical errors ensuring smooth daily operations.</div>
-                                    <div class="item">I filled in questionnaire/survey forms accurately increasing the efficiency and reliability of the organization</div>
-                                    <div class="item">I assist the programming team in writing quality and optimal codes making sure we are always on point.</div>
+                                    <div class="item"> Debugged logic and runtime errors using Netbeans to ensuring error free code base</div>
+                                    <div class="item">Designed questionnaire/survey forms to automate otherwise tedious repititive interactions with customer, drastically freeing up available man ppower</div>
+                                    <div class="item">Pair programmed with other developers in ensuring they follow all recommended coding standards</div>
                                 </div>
                             </div>
                         </div>

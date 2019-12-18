@@ -16,14 +16,12 @@ class ProfileDetails extends React.Component {
                             <h3 className="ui block header summary header">Professional Summary</h3>
                             <div className="ui raised segment box-dark">
                                 <a className="ui red ribbon label header" style={{ fontSize: 'small' }}>Overview</a>
-                                <p className="paragraph"><br />4+ year experienced and meticulous Full Stack Web Developer with the dexterity for conceptualizing
-                                 and  delivering elegant , durable user-friendly solutions efficaciously and effectively. Possesses a track record of
+                                <p className="paragraph"><br />6+ year experienced and meticulous Software Engineer with the dexterity for conceptualizing
+                                 and  delivering elegant, durable and user-friendly solutions efficaciously and effectively. Possesses a track record of
                                   proferring and developing a fully functional Civil Servant Management System for the Anambra State Government .
-                                  Armed with an extensive understanding of how to make computer do awesome things.  I am also heavlily involved
-                                   in the world of graphics design, leading and collaboarating on a number of design projects, which can be found on
-                                   my behance page</p>
+                                  Armed with the knowledge and skills to make computers do awesome things</p>
                             </div>
-                            <button className="ui fluid linkedin button">View Resume</button>
+                            <a href="https://drive.google.com/file/d/1clc7bqL64w1b6x9GWVcAjDKSzKQ1H6Xb/view?usp=sharing"><button className="ui fluid linkedin button">View Resume</button></a>
                         </div>
                     </div>
                 </div>

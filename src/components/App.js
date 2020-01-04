@@ -13,7 +13,6 @@ class App extends Component {
             <div className="ui fluid container">
                 <Landing />
                 <ProfileDetails />
-                <CareerDetails />
                 <SkillSet />
                 <Resume />
                 <Footer />

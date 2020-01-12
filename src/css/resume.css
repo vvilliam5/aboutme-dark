@@ -1,3 +1,7 @@
+.box-dark-bg{
+	background-color: #2e2b2b;
+}
+
 .pad-top{
     padding-top: 60px !important;
     padding-bottom: 60px !important;
@@ -13,6 +17,10 @@
     color: whitesmoke;
 }
 
-.box-dark-bg{
-    background-color: #2e2b2b;
+.project-text{
+    color: white;
+}
+
+.project-img{
+    padding: 10px;
 }

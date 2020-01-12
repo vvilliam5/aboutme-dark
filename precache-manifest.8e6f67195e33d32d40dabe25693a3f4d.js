@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4eba3c8db5913625073071e73e8c2395",
+    "revision": "37ec6d59788df736d83cb9c36bdaf641",
     "url": "/aboutme-dark/index.html"
   },
   {
-    "revision": "d527ac4529fc0b115b02",
-    "url": "/aboutme-dark/static/css/main.150cad05.chunk.css"
+    "revision": "10e762e1e5210cc2beea",
+    "url": "/aboutme-dark/static/css/main.fe319380.chunk.css"
   },
   {
-    "revision": "a600f5081ff2c15de5ca",
-    "url": "/aboutme-dark/static/js/2.bfaccdac.chunk.js"
+    "revision": "68dfc6faaa800eba5836",
+    "url": "/aboutme-dark/static/js/2.8ffabb05.chunk.js"
   },
   {
     "revision": "a7020d2a8f4a374bf1bdac0fd36fbe93",
-    "url": "/aboutme-dark/static/js/2.bfaccdac.chunk.js.LICENSE"
+    "url": "/aboutme-dark/static/js/2.8ffabb05.chunk.js.LICENSE"
   },
   {
-    "revision": "d527ac4529fc0b115b02",
-    "url": "/aboutme-dark/static/js/main.596ff486.chunk.js"
+    "revision": "10e762e1e5210cc2beea",
+    "url": "/aboutme-dark/static/js/main.3baefbb7.chunk.js"
   },
   {
     "revision": "ca3a800ee898dae281c5",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3e3689e0950540c32ae2b891ead0f520",
     "url": "/aboutme-dark/static/media/chai-logo.3e3689e0.png"
+  },
+  {
+    "revision": "84d8d62a2d4a67c5a0ff918bbbc7bbaa",
+    "url": "/aboutme-dark/static/media/csms.84d8d62a.png"
   },
   {
     "revision": "a6641eccf09ddb150dadf0b6019905a7",
@@ -52,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aboutme-dark/static/media/mocha-logo.c503b6cc.png"
   },
   {
+    "revision": "5604696c56c331b80bb5e04c3170db28",
+    "url": "/aboutme-dark/static/media/mojecmeters.5604696c.png"
+  },
+  {
     "revision": "cef7fa69e4a281407a10db1a2402795f",
     "url": "/aboutme-dark/static/media/nodejs-logo.cef7fa69.png"
   },
@@ -70,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3f92da6131f8503a83991516fd81736f",
     "url": "/aboutme-dark/static/media/sql-logo.3f92da61.png"
+  },
+  {
+    "revision": "bd084ccb4ed0fc7267888405c1bf5b12",
+    "url": "/aboutme-dark/static/media/stockings.bd084ccb.png"
   },
   {
     "revision": "9054dbd746474a9ce7b660d9e8c7113b",

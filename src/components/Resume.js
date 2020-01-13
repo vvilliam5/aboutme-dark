@@ -15,7 +15,7 @@ class Resume extends React.Component {
                             <img src={mojecmeters} />
                             <span className="project-text">Customer Order Management System</span>
                         </a>
-                        <a href="https://vvilliam5.github.io/csms" target="_blank" className="ui medium rounded image project-img">
+                        <a href="https://ohos-csms.herokuapp.com/" target="_blank" className="ui medium rounded image project-img">
                             <img src={csms} />
                             <span className="project-text">Civil Servant Management System</span>
                         </a>

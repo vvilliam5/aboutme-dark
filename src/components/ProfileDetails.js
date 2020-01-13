@@ -21,7 +21,7 @@ class ProfileDetails extends React.Component {
                                   proferring and developing a fully functional Civil Servant Management System for the Anambra State Government .
                                   Armed with the knowledge and skills to make computers do awesome things</p>
                             </div>
-                            <a href="https://drive.google.com/file/d/1Me1KyfRRkyYzKZrRazbmmE-A0R-v18zl/view?usp=sharing"><button className="ui fluid linkedin button">View Resume</button></a>
+                            <a href="https://drive.google.com/file/d/1YaSaNy0VxU5-WDYStned4TXKfDbXGqpd/view?usp=sharing"><button className="ui fluid linkedin button">View Resume</button></a>
                         </div>
                     </div>
                 </div>

@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "331228f1753f8f5dd22b2491885485a0",
+    "revision": "6b19477d8070c37a596dd5e432e54483",
     "url": "/aboutme-dark/index.html"
   },
   {
-    "revision": "ee28343dc610af8bade1",
-    "url": "/aboutme-dark/static/css/main.7fc8c243.chunk.css"
+    "revision": "c3a533c8d875897856e0",
+    "url": "/aboutme-dark/static/css/main.82ba5512.chunk.css"
   },
   {
-    "revision": "68dfc6faaa800eba5836",
-    "url": "/aboutme-dark/static/js/2.8ffabb05.chunk.js"
+    "revision": "959d5a6a2e6df6e38606",
+    "url": "/aboutme-dark/static/js/2.ef82276d.chunk.js"
   },
   {
-    "revision": "a7020d2a8f4a374bf1bdac0fd36fbe93",
-    "url": "/aboutme-dark/static/js/2.8ffabb05.chunk.js.LICENSE"
+    "revision": "d705cb622423d72c5defbf368ca70dcc",
+    "url": "/aboutme-dark/static/js/2.ef82276d.chunk.js.LICENSE"
   },
   {
-    "revision": "ee28343dc610af8bade1",
-    "url": "/aboutme-dark/static/js/main.7a2c45ec.chunk.js"
+    "revision": "c3a533c8d875897856e0",
+    "url": "/aboutme-dark/static/js/main.aeab90cb.chunk.js"
   },
   {
     "revision": "ca3a800ee898dae281c5",
     "url": "/aboutme-dark/static/js/runtime-main.f171b361.js"
-  },
-  {
-    "revision": "30a6d11c4c476e855c98793e6d7eff94",
-    "url": "/aboutme-dark/static/media/c.30a6d11c.jpg"
   },
   {
     "revision": "3e3689e0950540c32ae2b891ead0f520",
@@ -38,14 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6641eccf09ddb150dadf0b6019905a7",
     "url": "/aboutme-dark/static/media/docker_logo.a6641ecc.png"
-  },
-  {
-    "revision": "1b93924c54e47cc50a3e8b6523bd004d",
-    "url": "/aboutme-dark/static/media/e.1b93924c.jpg"
-  },
-  {
-    "revision": "5ae26378d1c362cc48dfe9fc6a70d65e",
-    "url": "/aboutme-dark/static/media/field.5ae26378.png"
   },
   {
     "revision": "1fbd2ccdd3798806eb514df01f02f2a1",
@@ -82,9 +70,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bd084ccb4ed0fc7267888405c1bf5b12",
     "url": "/aboutme-dark/static/media/stockings.bd084ccb.png"
-  },
-  {
-    "revision": "9054dbd746474a9ce7b660d9e8c7113b",
-    "url": "/aboutme-dark/static/media/williams.9054dbd7.png"
   }
 ]);

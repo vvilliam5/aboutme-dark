@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/aboutme-dark/static/css/main.7fc8c243.chunk.css",
-    "main.js": "/aboutme-dark/static/js/main.7a2c45ec.chunk.js",
-    "main.js.map": "/aboutme-dark/static/js/main.7a2c45ec.chunk.js.map",
+    "main.css": "/aboutme-dark/static/css/main.82ba5512.chunk.css",
+    "main.js": "/aboutme-dark/static/js/main.aeab90cb.chunk.js",
+    "main.js.map": "/aboutme-dark/static/js/main.aeab90cb.chunk.js.map",
     "runtime-main.js": "/aboutme-dark/static/js/runtime-main.f171b361.js",
     "runtime-main.js.map": "/aboutme-dark/static/js/runtime-main.f171b361.js.map",
-    "static/js/2.8ffabb05.chunk.js": "/aboutme-dark/static/js/2.8ffabb05.chunk.js",
-    "static/js/2.8ffabb05.chunk.js.map": "/aboutme-dark/static/js/2.8ffabb05.chunk.js.map",
+    "static/js/2.ef82276d.chunk.js": "/aboutme-dark/static/js/2.ef82276d.chunk.js",
+    "static/js/2.ef82276d.chunk.js.map": "/aboutme-dark/static/js/2.ef82276d.chunk.js.map",
     "index.html": "/aboutme-dark/index.html",
-    "precache-manifest.0afeeae415674a5654033d5951508224.js": "/aboutme-dark/precache-manifest.0afeeae415674a5654033d5951508224.js",
+    "precache-manifest.b393e3c34a799bd9405c63c3cdcc4272.js": "/aboutme-dark/precache-manifest.b393e3c34a799bd9405c63c3cdcc4272.js",
     "service-worker.js": "/aboutme-dark/service-worker.js",
-    "static/css/main.7fc8c243.chunk.css.map": "/aboutme-dark/static/css/main.7fc8c243.chunk.css.map",
-    "static/js/2.8ffabb05.chunk.js.LICENSE": "/aboutme-dark/static/js/2.8ffabb05.chunk.js.LICENSE",
-    "static/media/profileDetails.css": "/aboutme-dark/static/media/c.30a6d11c.jpg",
+    "static/css/main.82ba5512.chunk.css.map": "/aboutme-dark/static/css/main.82ba5512.chunk.css.map",
+    "static/js/2.ef82276d.chunk.js.LICENSE": "/aboutme-dark/static/js/2.ef82276d.chunk.js.LICENSE",
     "static/media/chai-logo.png": "/aboutme-dark/static/media/chai-logo.3e3689e0.png",
     "static/media/csms.png": "/aboutme-dark/static/media/csms.84d8d62a.png",
     "static/media/docker_logo.png": "/aboutme-dark/static/media/docker_logo.a6641ecc.png",
-    "static/media/skillSet.css": "/aboutme-dark/static/media/field.5ae26378.png",
     "static/media/git-logo.png": "/aboutme-dark/static/media/git-logo.1fbd2ccd.png",
     "static/media/mocha-logo.png": "/aboutme-dark/static/media/mocha-logo.c503b6cc.png",
     "static/media/mojecmeters.png": "/aboutme-dark/static/media/mojecmeters.5604696c.png",
@@ -25,13 +23,12 @@
     "static/media/redux-logo.png": "/aboutme-dark/static/media/redux-logo.6e0c2c77.png",
     "static/media/rest-logo.png": "/aboutme-dark/static/media/rest-logo.e229ad83.png",
     "static/media/sql-logo.png": "/aboutme-dark/static/media/sql-logo.3f92da61.png",
-    "static/media/stockings.png": "/aboutme-dark/static/media/stockings.bd084ccb.png",
-    "static/media/williams.png": "/aboutme-dark/static/media/williams.9054dbd7.png"
+    "static/media/stockings.png": "/aboutme-dark/static/media/stockings.bd084ccb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f171b361.js",
-    "static/js/2.8ffabb05.chunk.js",
-    "static/css/main.7fc8c243.chunk.css",
-    "static/js/main.7a2c45ec.chunk.js"
+    "static/js/2.ef82276d.chunk.js",
+    "static/css/main.82ba5512.chunk.css",
+    "static/js/main.aeab90cb.chunk.js"
   ]
 }

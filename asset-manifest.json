@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aboutme-dark/static/css/main.82ba5512.chunk.css",
+    "main.css": "/aboutme-dark/static/css/main.a0dffacd.chunk.css",
     "main.js": "/aboutme-dark/static/js/main.aeab90cb.chunk.js",
     "main.js.map": "/aboutme-dark/static/js/main.aeab90cb.chunk.js.map",
     "runtime-main.js": "/aboutme-dark/static/js/runtime-main.f171b361.js",
@@ -8,9 +8,9 @@
     "static/js/2.ef82276d.chunk.js": "/aboutme-dark/static/js/2.ef82276d.chunk.js",
     "static/js/2.ef82276d.chunk.js.map": "/aboutme-dark/static/js/2.ef82276d.chunk.js.map",
     "index.html": "/aboutme-dark/index.html",
-    "precache-manifest.b393e3c34a799bd9405c63c3cdcc4272.js": "/aboutme-dark/precache-manifest.b393e3c34a799bd9405c63c3cdcc4272.js",
+    "precache-manifest.07d0e75cc11d39f62c0c3cefb843b63e.js": "/aboutme-dark/precache-manifest.07d0e75cc11d39f62c0c3cefb843b63e.js",
     "service-worker.js": "/aboutme-dark/service-worker.js",
-    "static/css/main.82ba5512.chunk.css.map": "/aboutme-dark/static/css/main.82ba5512.chunk.css.map",
+    "static/css/main.a0dffacd.chunk.css.map": "/aboutme-dark/static/css/main.a0dffacd.chunk.css.map",
     "static/js/2.ef82276d.chunk.js.LICENSE": "/aboutme-dark/static/js/2.ef82276d.chunk.js.LICENSE",
     "static/media/chai-logo.png": "/aboutme-dark/static/media/chai-logo.3e3689e0.png",
     "static/media/csms.png": "/aboutme-dark/static/media/csms.84d8d62a.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.f171b361.js",
     "static/js/2.ef82276d.chunk.js",
-    "static/css/main.82ba5512.chunk.css",
+    "static/css/main.a0dffacd.chunk.css",
     "static/js/main.aeab90cb.chunk.js"
   ]
 }

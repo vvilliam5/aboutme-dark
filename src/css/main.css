@@ -10,7 +10,7 @@ body, html {
   
   div, p {
     color: #757575;
-    text-shadow: 1px 1px 1px #90A4AE;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
   }
 
   .segment {
